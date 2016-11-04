@@ -1,7 +1,7 @@
 <?php
 /*
 AppEx nulled script
-by Teddyvonne
+by Tedd yvonne
 */
         
 /*
